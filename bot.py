@@ -25,7 +25,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url(👨‍💻 Sahibim', 'https://t.me/coolnorman
+        Button.url( Owner🧑🏻‍💻', 'https://t.me/coolnorman
         Button.url('𝙽𝙾𝚁𝚆𝙰𝚈 𝙲𝙷𝙰𝚃 🇳🇴', 'https://t.me/NorwayChat')
       ]
     )
@@ -39,7 +39,7 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('👨‍💻Sahibim', 'https://t.me/coolnorman
+        Button.url('Owner🧑🏻‍💻', 'https://t.me/coolnorman
         Button.url('𝙽𝙾𝚁𝚆𝙰𝚈 𝙲𝙷𝙰𝚃 🇳🇴', 'https://t.me/NorwayChat')
       ]
     )
